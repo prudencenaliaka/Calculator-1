@@ -4,9 +4,9 @@
 ## Description
 This is a simple calculator that I developed using Javascript. The logic behind it is that it uses javascript functions.Consequently, when the user enters data, the calculator is able to carry out operations based on the predefined methods of javascript. Notably, this is just an additional calculator and can not carry out other arithmetic operations. The calculator is under development to add these operations. 
 ## Setup/Installation Requirements
-Requires a browser running HTML version 5
-Easy to use to perform basic additional arithmetics
-A great user interface for better user interaction.
+* Requires a browser running HTML version 5
+* Easy to use to perform basic additional arithmetics
+* A great user interface for better user interaction.
 
 ## Known Bugs
 There are no known bugs as of the date of posting this Readme.
