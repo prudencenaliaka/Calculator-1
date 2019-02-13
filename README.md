@@ -1,5 +1,5 @@
 #Calculator
-#A simple calculator using javascript. 13/02/2019 Version 1.0
+####A simple calculator using javascript. 13/02/2019 Version 1.0
 By Doktatech
 #Description
 This is my first project that I have developed linking javascript and HTML.Notably, this is a basic caclutaor that performs only additional inputs to its logical operation. 
