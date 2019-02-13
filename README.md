@@ -2,7 +2,7 @@
 #### Simple additional calculator, {13/02/2019}
 #### By **Doktatech**
 ## Description
-This is a simple calculator that I developed using Javascript. The logic behind it is that it uses javascript functions.Consequently, when the user enters data, the calculator is able to carry out operations based on the repredefined methods of javascript. Notably, this is just an additional calculator and can not carry out other arithmetic operations. The calculator is under development to add these operations. 
+This is a simple calculator that I developed using Javascript. The logic behind it is that it uses javascript functions.Consequently, when the user enters data, the calculator is able to carry out operations based on the predefined methods of javascript. Notably, this is just an additional calculator and can not carry out other arithmetic operations. The calculator is under development to add these operations. 
 ## Setup/Installation Requirements
 *Requires a browser running HTML version 5
 *Easy to use to perform basic additional arithmetics
@@ -13,7 +13,7 @@ There are no known bugs as of the date of posting this Readme.
 ## Technologies Used
 Calculator uses basic HTML and Javascript as the core languages
 ## Support and contact details
-  If by any chance you find bugs in this code, please contact me for improvement and correction. Nevertheless, as noted from the license below, this code open source and can be improved by anyone for either public or personal gain. 
+  If by any chance you find bugs in this code, please contact me for improvement and correction. Nevertheless, as noted from the license below, this code is open source and can be improved by anyone for either public or personal gain. 
 ### License
 MIT License
 
